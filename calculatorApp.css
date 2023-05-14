@@ -1,0 +1,106 @@
+input[type="button"] {
+  width: 50px;
+}
+body {
+  background-color: rgb(4, 4, 26);
+}
+.result-button {
+  font-family: Arial;
+  font-size: 20px;
+  color: black;
+  width: 290px;
+  height: 50px;
+  margin-bottom: 30px;
+  margin-top: 20px;
+  margin-left: 30px;
+  border: none;
+}
+
+.num {
+  background-color: rgb(2, 2, 21);
+  color: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: none;
+  margin-bottom: 10px;
+  margin-left: 45px;
+  margin-right: 10px;
+  box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
+  cursor: pointer;
+}
+.num:hover{
+  background-color:rgb(4, 4, 46)
+}
+
+.operator {
+  background-color:  rgb(2, 2, 21);
+  color: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: none;
+  margin-bottom: 10px;
+  margin-left: 45px;
+  margin-right: 10px;
+  box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
+  cursor: pointer;
+}
+.operator:hover{
+  background-color:rgb(4, 4, 46)
+}
+
+.operator-del {
+  font-family: Arial;
+  font-size: 10px;
+  background-color:  rgb(2, 2, 21);
+  color: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: none;
+  margin-bottom: 10px;
+  margin-left: 45px;
+  margin-right: 10px;
+  box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
+  cursor: pointer;
+}
+.operator-del:hover{
+  background-color:rgb(4, 4, 46)
+}
+.equal-button {
+  font-family: Arial;
+  font-size: 10px;
+  background-color:  rgb(2, 2, 21);
+  color: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: none;
+  margin-bottom: 10px;
+  margin-left: 45px;
+  margin-right: 10px;
+  box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
+  cursor: pointer;
+}
+.equal-button:hover{
+  background-color:rgb(4, 4, 46)
+}
+.delete-button {
+  font-family: Arial;
+  font-size: 10px;
+  background-color:  rgb(2, 2, 21);
+  color: white;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: none;
+  margin-bottom: 10px;
+  margin-left: 45px;
+  margin-right: 10px;
+  box-shadow: 0px 3px 15px rgba(113, 115, 119, 0.5);
+  cursor: pointer;
+}
+.delete-button:hover{
+  background-color:rgb(4, 4, 46)
+}
